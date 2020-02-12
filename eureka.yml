@@ -2,7 +2,7 @@
 spring:
   profiles: eureka01 
   application:
-    name: eureka01
+    name: eureka
 
 server:
   port: 6001 # 服务端口
@@ -21,7 +21,7 @@ eureka:
 spring:
   profiles: eureka02 
   application:
-    name: eureka02
+    name: eureka
 
 server:
   port: 6002 # 服务端口
